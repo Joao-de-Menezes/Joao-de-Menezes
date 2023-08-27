@@ -1,17 +1,15 @@
-### Olá 👋
-## Eu sou o João.
+# Olá! Eu sou o João 👋
 
-<!--
-**Joao-de-Menezes/Joao-de-Menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 4° Período de Engenharia de Software!
+- ⚙️ Atualmente trabalhando em um projeto React.
+- ✏️ Foco em estudo Front-End.
+## 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-de-Menezes&show_icons=true&theme=dark)](https://github.com/Joao-de-Menezes/github-readme-stats)
+## Alguma técologias que conheço
+<div>
+  <img align='center' alt='Joao-Html' height='50' whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align='center' alt='Joao-Css' height='50' whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align='center' alt='Joao-Js' height='50' whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align='center' alt='Joao-React' height='50' whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align='center' alt='Joao-React' height='50' whidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
