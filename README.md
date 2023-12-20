@@ -1,8 +1,9 @@
 # Olá! Eu sou o João 👋
 
-- 🧑‍💻 4° Período de Engenharia de Software!
-- ⚙️ Atualmente trabalhando em um projeto React.
+- 🧑‍💻 5° Período de Engenharia de Software!
+- ⚙️ Atualmente trabalhando em um projeto de Empregabilidade para UNICEPLAC.
 - ✏️ Foco em estudo Front-End.
+- 💡 Sempre apredendo mais!
 ## 
 <!--API dos gráficos do perfil-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-de-Menezes&show_icons=true&theme=dark)](https://github.com/Joao-de-Menezes/github-readme-stats)
