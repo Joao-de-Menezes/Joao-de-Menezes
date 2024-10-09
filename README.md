@@ -1,8 +1,8 @@
 # Olá! Eu sou o João 👋
 
-- 🧑‍💻 5° Período de Engenharia de Software!
-- ⚙️ Atualmente trabalhando em um projeto de Empregabilidade para UNICEPLAC.
-- ✏️ Foco em estudo Front-End.
+- 🧑‍💻 6° Período de Engenharia de Software!
+- ⚙️ Estudando sempre :)
+- ✏️ Foco em Front-End.
 - 💡 Sempre apredendo mais!
 ## 
 <!--API dos gráficos do perfil-->
