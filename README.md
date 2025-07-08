@@ -7,9 +7,7 @@
 ## 
 <!--API dos gráficos do perfil-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-de-Menezes&show_icons=true&theme=dark)](https://github.com/Joao-de-Menezes/github-readme-stats)
-<div height='40'>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-de-Menezes&show_progress=true&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-de-Menezes&show_progress=true&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 <!--ícones das linguagens-->
 <div>
   <img align='center' alt='React' height='40' whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
