@@ -1,7 +1,6 @@
 # Olá! Eu sou o João 👋
 
-- 🧑‍💻 8° Período de Engenharia de Software!
-- ⚙️ Estudante.
+- 🧑‍💻 Formado em Engenharia de Software!
 - ✏️ Foco em desenvolvimento WEB.
 - 💡 Aprendendo sempre mais!
 ##
